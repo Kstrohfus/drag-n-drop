@@ -23,6 +23,16 @@ body {
     background: #fff;
 }
 
+.hold {
+    border: solid 5px #ccc;
+}
+
+.hovered {
+    background-color: #333;
+    border-color: #fff;
+    border-style: dashed;
+}
+
 .fill {
     background-image: url("https://source.unsplash.com/random/150x150");
     height: 145px;
